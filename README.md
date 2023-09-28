@@ -7,3 +7,4 @@ working on creating machine learning models to detect parkinson's
 [Nature: Deep Brain Stimulation](https://www.nature.com/articles/s41531-023-00508-x)
 [Detecting Parkinson's Disease with a CNN using EEG time-series data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263159)
 [NIH Parkinson's Disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3002606/)
+[Cleveland Clinic: Deep Brain Stimulation](https://my.clevelandclinic.org/health/treatments/21088-deep-brain-stimulation)
